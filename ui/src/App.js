@@ -173,7 +173,7 @@ class App extends React.Component {
                   target='_blank'
                   rel='noopener noreferrer'
                   className='remote-link'
-                  href='https://rinkeby.etherscan.io/tx/0x3349da25727612e32d292b2fd1f1d2ac5d07b35b9b0f62f356f60d3aa65c6241'
+                  href='https://sepolia.etherscan.io/address/0x2cC25b7C3fC5919862042c79cFed76f715Ca7216#tokentxns'
                 >
                   EtherScan
                 </a>
@@ -184,20 +184,9 @@ class App extends React.Component {
                   target='_blank'
                   rel='noopener noreferrer'
                   className='remote-link'
-                  href='https://github.com/bmshamsnahid/Decentralized-Lottery-App'
+                  href='https://github.com/woozlic/decentralized_app_lottery'
                 >
                   Github
-                </a>
-              </div>
-              <div>
-                Inspired from{' '}
-                <a
-                  target='_blank'
-                  rel='noopener noreferrer'
-                  className='remote-link'
-                  href='https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide'
-                >
-                  Stephen Grider Course
                 </a>
               </div>
               <div>
@@ -213,14 +202,7 @@ class App extends React.Component {
               </div>
               <div>
                 Developed By{' '}
-                <a
-                  target='_blank'
-                  rel='noopener noreferrer'
-                  className='remote-link'
-                  href='https://shams-nahid.herokuapp.com/'
-                >
-                  Shams Nahid
-                </a>
+                  Demin Dmitry
               </div>
             </div>
           </div>
