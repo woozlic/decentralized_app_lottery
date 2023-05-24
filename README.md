@@ -1,1 +1,3 @@
 # decentralized_app_lottery
+
+Smart Contract Hash: 0x2cC25b7C3fC5919862042c79cFed76f715Ca7216
